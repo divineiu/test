@@ -11,7 +11,7 @@ class index
     public function index()
     {
         echo 111;
-        echo 22222;
+        echo 334343;
     }
     public function index2()
     {
