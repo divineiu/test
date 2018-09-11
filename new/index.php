@@ -13,4 +13,8 @@ class index
         echo 111;
         echo 22222;
     }
+    public function index2()
+    {
+        echo 111;
+    }
 }
