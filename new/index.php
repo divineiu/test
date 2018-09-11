@@ -11,5 +11,6 @@ class index
     public function index()
     {
         echo 111;
+        echo 22222;
     }
 }
