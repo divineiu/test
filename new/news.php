@@ -11,5 +11,7 @@ class news
     {
         echo 'test1';
         echo 'test1';
+        echo 'test1';
+        echo 'test1';
     }
 }
