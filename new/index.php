@@ -1,4 +1,4 @@
-2312<?php
+<?php
 /**
  * Created by PhpStorm.
  * User: Administrator
@@ -19,5 +19,6 @@ class index
         echo 111;
         echo 122;
         echo 133;
+        22222
     }
 }
