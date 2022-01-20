@@ -16,7 +16,7 @@ class news
     }
     public function sss()
     {
-
+    	return 12;
     }
 
 }
